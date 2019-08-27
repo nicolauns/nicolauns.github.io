@@ -28,12 +28,12 @@ projects:
     projects:
     # - repo-name
 
- social_media:
+social_media:
+  website: https://lsdev.cf
+  facebook: jco.kuuhaku
+  twitter: fedhrm
   # behance: your_username
   # dribbble: your_username
-   facebook: jco.kuuhaku
-   twitter: fedhrm
-   website: http://lsdev.cf
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
