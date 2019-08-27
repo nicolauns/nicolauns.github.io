@@ -20,7 +20,7 @@ projects:
   sort_by: pushed
   sort_by options:
     - pushed
-   # - stars
+    - stars
   limit: 18
   exclude:
     archived: false
@@ -96,7 +96,7 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vue/vue.png
 
   - name: ES6
-    web_url: https://github.com/topics/es6
+    web_url: https://github.com/topics/
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/es6/es6.png
 
   - name: Firebase
@@ -105,7 +105,7 @@ topics:
 
   - name: PWA
     web_url: https://github.com/topics/pwa
-    image_url: https://raw.githubusercontent.com/github/explore/698c66928eddcc6ad969b94912d7727c10229593/topics/pwa/pwa.png
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/pwa/pwa.png
 
    - name: HTML
     web_url: https://github.com/topics/html
