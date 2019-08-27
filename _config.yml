@@ -20,7 +20,7 @@ projects:
   sort_by: pushed
   sort_by options:
     - pushed
-  #   - stars
+    - stars
   limit: 18
   exclude:
     archived: false
@@ -29,14 +29,11 @@ projects:
     # - repo-name
 
 social_media:
-  facebook: liyasthomas
-  linkedin: liyasthomas
-  telegram: liyasthomas
-  twitter: liyasthomas
-  website: http://tiny.cc/liyasthomas
+  website: https://lsdev.cf
+  facebook: jco.kuuhaku
+  twitter: fedhrm
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
@@ -45,14 +42,72 @@ social_media:
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
   # youtube: your_username
 
 topics:
-  - name: HTML
+  - name: PHP
+    web_url: https://github.com/topics/php
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/php/php.png
+
+  - name: Composer
+    web_url: https://github.com/topics/composer
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/composer/composer.png
+
+  - name: Laravel
+    web_url: https://github.com/topics/laravel
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/laravel/laravel.png
+
+  - name: Docker
+    web_url: https://github.com/topics/docker
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/docker/docker.png
+
+  - name: Kubernetes
+    web_url: https://github.com/topics/kubernetes
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/kubernetes/kubernetes.png
+
+  - name: Git
+    web_url: https://github.com/topics/git
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/git/git.png
+
+  - name: Bootstrap
+    web_url: https://github.com/topics/bootstrap
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/bootstrap/bootstrap.png
+
+  - name: Gulp
+    web_url: https://github.com/topics/gulp
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/gulp/gulp.png
+
+  - name: Sass
+    web_url: https://github.com/topics/sass
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+
+  - name: Angular
+    web_url: https://github.com/topics/angular
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/angular/angular.png
+
+  - name: React
+    web_url: https://github.com/topics/react
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/react/react.png
+
+  - name: Vue.js
+    web_url: https://github.com/topics/vue
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vue/vue.png
+
+  - name: ES6
+    web_url: https://github.com/topics/es6
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/es6/es6.png
+
+  - name: Firebase
+    web_url: https://github.com/topics/firebase
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/firebase/firebase.png
+
+  - name: PWA
+    web_url: https://github.com/topics/pwa
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/pwa/pwa.png
+
+   - name: HTML
     web_url: https://github.com/topics/html
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/html/html.png
 
@@ -63,39 +118,3 @@ topics:
   - name: JavaScript
     web_url: https://github.com/topics/javascript
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
-
-  - name: Firebase
-    web_url: https://github.com/topics/firebase
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/firebase/firebase.png
-
-  - name: Git
-    web_url: https://github.com/topics/git
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/git/git.png
-
-  - name: JSON
-    web_url: https://github.com/topics/json
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/json/json.png
-
-  - name: Material Design
-    web_url: https://github.com/topics/material-design
-    image_url: https://raw.githubusercontent.com/github/explore/ae6b22689282e8e8c3c43f9e82a0e80ff83423b6/topics/material-design/material-design.png
-
-  - name: Node.js
-    web_url: https://github.com/topics/nodejs
-    image_url: https://raw.githubusercontent.com/github/explore/fd96fceccf8c42c99cbe29cf0f8dcc4736fcb85a/topics/nodejs/nodejs.png
-
-  - name: npm
-    web_url: https://github.com/topics/npm
-    image_url: https://raw.githubusercontent.com/github/explore/fd96fceccf8c42c99cbe29cf0f8dcc4736fcb85a/topics/npm/npm.png
-
-  - name: PWA
-    web_url: https://github.com/topics/pwa
-    image_url: https://raw.githubusercontent.com/github/explore/698c66928eddcc6ad969b94912d7727c10229593/topics/pwa/pwa.png
-
-  - name: Electron
-    web_url: https://github.com/topics/electron
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png
-
-  - name: Chrome extension
-    web_url: https://github.com/topics/chrome-extension
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png
