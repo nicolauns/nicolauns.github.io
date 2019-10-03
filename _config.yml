@@ -26,7 +26,7 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+     - composer-autoload-emulator
 
 social_media:
   website: https://lsdev.cf
