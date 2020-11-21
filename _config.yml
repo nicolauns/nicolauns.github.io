@@ -19,7 +19,6 @@ defaults:
 projects:
   sort_by: pushed
   sort_by options:
-    - pushed
     - stars
   limit: 18
   exclude:
@@ -29,8 +28,8 @@ projects:
      - composer-autoload-emulator
 
 social_media:
-  website: https://lsdev.cf
-  facebook: jco.kuuhaku
+  website: https://ndev.cf
+  facebook: nicolauns
   twitter: fedhrm
 
 topics:
@@ -62,17 +61,13 @@ topics:
     web_url: https://github.com/topics/bootstrap
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/bootstrap/bootstrap.png
 
+  - name: Tailwind
+    web_url: https://github.com/topics/tailwind
+    image_url: https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png
+
   - name: Gulp
     web_url: https://github.com/topics/gulp
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/gulp/gulp.png
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
-
-  - name: Angular
-    web_url: https://github.com/topics/angular
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/angular/angular.png
 
   - name: React
     web_url: https://github.com/topics/react
@@ -85,6 +80,10 @@ topics:
   - name: ES6
     web_url: https://github.com/topics/es6
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/es6/es6.png
+
+  - name: Heroku
+    web_url: https://github.com/topics/heroku
+    image_url: https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png
 
   - name: Firebase
     web_url: https://github.com/topics/firebase
