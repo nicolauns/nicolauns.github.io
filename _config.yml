@@ -1,5 +1,5 @@
 layout: stacked
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -29,21 +29,24 @@ projects:
 
 social_media:
   website: https://ndev.cf
+  linkedin: nicolauns
   facebook: nicolauns
+  instagram: nicolauns
   twitter: fedhrm
+  telegram: nicolauns
 
 topics:
   - name: PHP
     web_url: https://github.com/topics/php
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/php/php.png
 
-  - name: Composer
-    web_url: https://github.com/topics/composer
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/composer/composer.png
-
   - name: Laravel
     web_url: https://github.com/topics/laravel
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/laravel/laravel.png
+
+  - name: Composer
+    web_url: https://github.com/topics/composer
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/composer/composer.png
 
   - name: Docker
     web_url: https://github.com/topics/docker
